@@ -1,0 +1,132 @@
+media@zotac:~/Documents/DQN_Chainer/deep_q_rl-master/deep_q_rl$ python ale_run_watch.py nohoho/network_file_100.pkl ~/Documents/roms/super_puyopuyo_tsu_remix.smc ../cores/snes9x2010_libretro.so 
+Using gpu device 0: GeForce GTX 950 (CNMeM is disabled, cuDNN 5105)
+/usr/local/lib/python2.7/dist-packages/theano/sandbox/cuda/__init__.py:600: UserWarning: Your cuDNN version is more recent than the one Theano officially supports. If you see any problems, try updating Theano or downgrading cuDNN to version 5.
+  warnings.warn(warn)
+Warning: couldn't load settings file: 
+R.L.E: Retro Learning Environment (version 0.5.0)
+[Based upon the Arcade Learning Environment (A.L.E)]
+[Powered by LibRetro]
+Use -help for help screen.
+[inf] Frontend supports RGB565 - will use that instead of XRGB1555.
+Sound buffer size: 128000 (32000 samples)
+Core loaded
+[inf] No ROM file header found.
+Map_LoROMMap
+PPU.RenderSub = 1
+PPU.FullClipping = 1
+Settings.Transparency = 1
+Settings.SpeedhackGameID = 0
+PPU.SFXSpeedupHack = 0
+coldata_update_screen = 1
+[inf] "���߰������³ �Я��" [checksum ok] LoROM, 16Mbits, ROM, NTSC, SRAM:0Kbits, ID:A7PJ, CRC32:61F903F8
+Running ROM file...
+Screen Display Active. [Manual Control Mode] 'm' [Slowdown] 'a' [Speedup] 's' [VolumeDown] '[' [VolumeUp] ']'.
+Random seed is 65
+INFO:root:OPENING super_puyopuyo_tsu_remix_02-02-05-01_0p0002_0p_95/results.csv
+INFO:root:testing epoch: 1 steps_left: 10000
+(0,1): 785, 760; 26sec
+INFO:root:testing epoch: 1 steps_left: 9593
+(0,2): 141, 168; 15sec
+INFO:root:testing epoch: 1 steps_left: 9355
+(0,3): 158, 233; 15sec
+INFO:root:testing epoch: 1 steps_left: 9113
+(0,4): 403, 1113; 30sec
+INFO:root:testing epoch: 1 steps_left: 8653
+(0,5): 320, 1158; 21sec
+INFO:root:testing epoch: 1 steps_left: 8326
+(0,6): 147, 168; 14sec
+INFO:root:testing epoch: 1 steps_left: 8107
+(0,7): 191, 222; 18sec
+INFO:root:testing epoch: 1 steps_left: 7831
+(0,8): 244, 1168; 20sec
+INFO:root:testing epoch: 1 steps_left: 7520
+(0,9): 900, 3043; 42sec
+INFO:root:testing epoch: 1 steps_left: 6873
+(0,10): 427, 785; 39sec
+INFO:root:testing epoch: 1 steps_left: 6282
+(0,11): 438, 1744; 37sec
+INFO:root:testing epoch: 1 steps_left: 5705
+(0,12): 355, 231; 19sec
+INFO:root:testing epoch: 1 steps_left: 5402
+(0,13): 142, 154; 13sec
+INFO:root:testing epoch: 1 steps_left: 5193
+(0,14): 125, 106; 10sec
+INFO:root:testing epoch: 1 steps_left: 5027
+(0,15): 211, 207; 20sec
+INFO:root:testing epoch: 1 steps_left: 4720
+(0,16): 194, 538; 19sec
+INFO:root:testing epoch: 1 steps_left: 4420
+(0,17): 634, 6024; 44sec
+INFO:root:testing epoch: 1 steps_left: 3743
+(0,18): 254, 2156; 22sec
+INFO:root:testing epoch: 1 steps_left: 3406
+(0,19): 682, 2266; 36sec
+INFO:root:testing epoch: 1 steps_left: 2848
+(0,20): 124, 116; 12sec
+INFO:root:testing epoch: 1 steps_left: 2662
+(0,21): 549, 824; 30sec
+INFO:root:testing epoch: 1 steps_left: 2205
+(0,22): 201, 298; 18sec
+INFO:root:testing epoch: 1 steps_left: 1926
+(0,23): 192, 298; 17sec
+INFO:root:testing epoch: 1 steps_left: 1657
+(0,24): 1234, 10156; 40sec
+INFO:root:testing epoch: 1 steps_left: 1035
+(0,25): 273, 1653; 25sec
+INFO:root:testing epoch: 1 steps_left: 649
+(0,26): 729, 1100; 31sec
+INFO:root:testing epoch: 1 steps_left: 168
+INFO:root:testing epoch: 2 steps_left: 10000
+(0,27): 1290, 4318; 70sec
+INFO:root:testing epoch: 2 steps_left: 8938
+(0,28): 334, 886; 30sec
+INFO:root:testing epoch: 2 steps_left: 8471
+(0,29): 330, 898; 25sec
+INFO:root:testing epoch: 2 steps_left: 8085
+(0,30): 675, 1204; 39sec
+INFO:root:testing epoch: 2 steps_left: 7492
+(0,31): 460, 310; 35sec
+INFO:root:testing epoch: 2 steps_left: 6952
+(0,32): 690, 677; 31sec
+INFO:root:testing epoch: 2 steps_left: 6479
+(0,33): 232, 2723; 25sec
+INFO:root:testing epoch: 2 steps_left: 6096
+(0,34): 149, 561; 15sec
+INFO:root:testing epoch: 2 steps_left: 5852
+(0,35): 915, 3860; 33sec
+INFO:root:testing epoch: 2 steps_left: 5340
+(0,36): 131, 127; 13sec
+INFO:root:testing epoch: 2 steps_left: 5136
+(0,37): 160, 111; 12sec
+INFO:root:testing epoch: 2 steps_left: 4946
+(0,38): 129, 295; 13sec
+INFO:root:testing epoch: 2 steps_left: 4740
+(0,39): 728, 267; 25sec
+INFO:root:testing epoch: 2 steps_left: 4354
+(0,40): 552, 2293; 23sec
+INFO:root:testing epoch: 2 steps_left: 4002
+(0,41): 200, 166; 18sec
+INFO:root:testing epoch: 2 steps_left: 3716
+(0,42): 248, 598; 21sec
+INFO:root:testing epoch: 2 steps_left: 3393
+(0,43): 1259, 2042; 42sec
+INFO:root:testing epoch: 2 steps_left: 2743
+(0,44): 128, 146; 13sec
+INFO:root:testing epoch: 2 steps_left: 2541
+(0,45): 471, 5082; 24sec
+INFO:root:testing epoch: 2 steps_left: 2168
+(0,46): 155, 450; 19sec
+INFO:root:testing epoch: 2 steps_left: 1869
+(0,47): 1191, 681; 36sec
+INFO:root:testing epoch: 2 steps_left: 1323
+(0,48): 154, 2813; 22sec
+INFO:root:testing epoch: 2 steps_left: 978
+(1,48): 2592, 291; 41sec
+INFO:root:testing epoch: 2 steps_left: 352
+(1,49): 212, 218; 19sec
+INFO:root:testing epoch: 2 steps_left: 60
+INFO:root:testing epoch: 3 steps_left: 10000
+(1,50): 290, 1830; 22sec
+INFO:root:testing epoch: 3 steps_left: 9656
+
+
