@@ -1,0 +1,38 @@
+\begin{thebibliography}{1}
+
+\bibitem{RLE}
+N.~{Bhonker}, S.~{Rozenberg}, and I.~{Hubara}.
+\newblock {Playing SNES in the Retro Learning Environment}.
+\newblock {\em ArXiv e-prints}, November 2016.
+
+\bibitem{dqn}
+Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Andrei~A. Rusu, Joel Veness,
+  Marc~G. Bellemare, Alex Graves, Martin Riedmiller, Andreas~K. Fidjeland,
+  Georg Ostrovski, Stig Petersen, Charles Beattie, Amir Sadik, Ioannis
+  Antonoglou, Helen King, Dharshan Kumaran, Daan Wierstra, Shane Legg, and
+  Demis Hassabis.
+\newblock Human-level control through deep reinforcement learning.
+\newblock {\em Nature}, Vol. 518, No. 7540, pp. 529--533, 02 2015.
+
+\bibitem{alphaGo}
+David Silver, Aja Huang, Christopher~J. Maddison, Arthur Guez, Laurent Sifre,
+  George van~den Driessche, Julian Schrittwieser, Ioannis Antonoglou, Veda
+  Panneershelvam, Marc Lanctot, Sander Dieleman, Dominik Grewe, John Nham, Nal
+  Kalchbrenner, Ilya Sutskever, Timothy Lillicrap, Madeleine Leach, Koray
+  Kavukcuoglu, Thore Graepel, and Demis Hassabis.
+\newblock Mastering the game of go with deep neural networks and tree search.
+\newblock {\em Nature}, Vol. 529, pp. 484--503, 2016.
+
+\bibitem{puyo_temp}
+富沢大介, 池田心, シモンビエノ.
+\newblock 落下型パズルゲームの定石形配置法とぷよぷよへの適用.
+\newblock 情報処理学会論文誌, Vol.~53, No.~11, pp. 2560--2570, nov 2012.
+
+\bibitem{puyo_monte}
+大月龍, 前田新一, 石井信.
+\newblock
+  不完全情報ゲームに対する階層化したモンテカルロ探索とそのぷよぷよへの適用.
+\newblock 電子情報通信学会技術研究報告. NC, ニューロコンピューティング, Vol.
+  113, No. 500, pp. 275--280, mar 2014.
+
+\end{thebibliography}

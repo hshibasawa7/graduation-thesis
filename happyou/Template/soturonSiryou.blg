@@ -1,0 +1,47 @@
+This is pBibTeX, Version 0.99d-j0.33 (utf8.euc) (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: soturonSiryou.aux
+The style file: jplain.bst
+Database file #1: ../../ref.bib
+You've used 5 entries,
+            2620 wiz_defined-function locations,
+            631 strings with 6061 characters,
+and the built_in function-call counts, 3613 in all, are:
+= -- 289
+> -- 250
+< -- 11
++ -- 101
+- -- 96
+* -- 290
+:= -- 532
+add.period$ -- 15
+call.type$ -- 5
+change.case$ -- 63
+chr.to.int$ -- 0
+cite$ -- 5
+duplicate$ -- 129
+empty$ -- 191
+format.name$ -- 144
+if$ -- 774
+int.to.chr$ -- 0
+int.to.str$ -- 5
+missing$ -- 5
+newline$ -- 28
+num.names$ -- 10
+pop$ -- 73
+preamble$ -- 1
+purify$ -- 58
+quote$ -- 0
+skip$ -- 129
+stack$ -- 0
+substring$ -- 153
+swap$ -- 48
+text.length$ -- 11
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 20
+warning$ -- 0
+while$ -- 20
+width$ -- 6
+write$ -- 56
+is.kanji.str$ -- 95

@@ -1,0 +1,150 @@
+Normal	4
+Normal	6
+Normal	8
+Normal	6
+Normal	2
+Normal	3
+Normal	3
+Normal	7
+Normal	4
+Normal	8
+Normal	7
+Normal	8
+Normal	7
+Normal	11
+Normal	3
+Normal	7
+Normal	6
+Normal	6
+Normal	5
+Normal	4
+Normal	2
+Normal	7
+Normal	7
+Normal	6
+Normal	2
+Normal	11
+Normal	6
+Normal	6
+Normal	7
+Normal	8
+Normal	8
+Normal	6
+Normal	7
+Normal	6
+Normal	8
+Normal	4
+Normal	7
+Normal	9
+Normal	5
+Normal	5
+Normal	4
+Normal	6
+Normal	9
+Normal	7
+Normal	4
+Normal	4
+Normal	3
+Normal	6
+Normal	7
+Normal	6
+Improved	9
+Improved	8
+Improved	13
+Improved	8
+Improved	10
+Improved	8
+Improved	10
+Improved	4
+Improved	9
+Improved	8
+Improved	7
+Improved	8
+Improved	8
+Improved	13
+Improved	7
+Improved	5
+Improved	8
+Improved	10
+Improved	9
+Improved	6
+Improved	8
+Improved	5
+Improved	7
+Improved	8
+Improved	7
+Improved	8
+Improved	9
+Improved	9
+Improved	7
+Improved	11
+Improved	9
+Improved	8
+Improved	11
+Improved	10
+Improved	9
+Improved	10
+Improved	8
+Improved	9
+Improved	0
+Improved	7
+Improved	9
+Improved	0
+Improved	9
+Improved	7
+Improved	8
+Improved	7
+Improved	1
+Improved	6
+Improved	8
+Improved	6
+"Human Knowledge"	9
+"Human Knowledge"	8
+"Human Knowledge"	9
+"Human Knowledge"	8
+"Human Knowledge"	7
+"Human Knowledge"	5
+"Human Knowledge"	6
+"Human Knowledge"	9
+"Human Knowledge"	6
+"Human Knowledge"	7
+"Human Knowledge"	8
+"Human Knowledge"	7
+"Human Knowledge"	7
+"Human Knowledge"	7
+"Human Knowledge"	8
+"Human Knowledge"	8
+"Human Knowledge"	11
+"Human Knowledge"	5
+"Human Knowledge"	7
+"Human Knowledge"	7
+"Human Knowledge"	8
+"Human Knowledge"	6
+"Human Knowledge"	7
+"Human Knowledge"	10
+"Human Knowledge"	11
+"Human Knowledge"	8
+"Human Knowledge"	6
+"Human Knowledge"	9
+"Human Knowledge"	10
+"Human Knowledge"	9
+"Human Knowledge"	9
+"Human Knowledge"	9
+"Human Knowledge"	9
+"Human Knowledge"	9
+"Human Knowledge"	10
+"Human Knowledge"	7
+"Human Knowledge"	10
+"Human Knowledge"	6
+"Human Knowledge"	8
+"Human Knowledge"	10
+"Human Knowledge"	7
+"Human Knowledge"	8
+"Human Knowledge"	8
+"Human Knowledge"	9
+"Human Knowledge"	10
+"Human Knowledge"	9
+"Human Knowledge"	10
+"Human Knowledge"	9
+"Human Knowledge"	5
+"Human Knowledge"	10
